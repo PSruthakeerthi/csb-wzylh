@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://psruthakeerthi.github.io/csb-wzylh/static/css/main.0fbdd4db.chunk.css",
+    "main.js": "https://psruthakeerthi.github.io/csb-wzylh/static/js/main.4e2c4e6e.chunk.js",
+    "main.js.map": "https://psruthakeerthi.github.io/csb-wzylh/static/js/main.4e2c4e6e.chunk.js.map",
+    "runtime-main.js": "https://psruthakeerthi.github.io/csb-wzylh/static/js/runtime-main.a4186a1a.js",
+    "runtime-main.js.map": "https://psruthakeerthi.github.io/csb-wzylh/static/js/runtime-main.a4186a1a.js.map",
+    "static/js/2.206fb792.chunk.js": "https://psruthakeerthi.github.io/csb-wzylh/static/js/2.206fb792.chunk.js",
+    "static/js/2.206fb792.chunk.js.map": "https://psruthakeerthi.github.io/csb-wzylh/static/js/2.206fb792.chunk.js.map",
+    "index.html": "https://psruthakeerthi.github.io/csb-wzylh/index.html",
+    "static/css/main.0fbdd4db.chunk.css.map": "https://psruthakeerthi.github.io/csb-wzylh/static/css/main.0fbdd4db.chunk.css.map",
+    "static/js/2.206fb792.chunk.js.LICENSE.txt": "https://psruthakeerthi.github.io/csb-wzylh/static/js/2.206fb792.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4186a1a.js",
+    "static/js/2.206fb792.chunk.js",
+    "static/css/main.0fbdd4db.chunk.css",
+    "static/js/main.4e2c4e6e.chunk.js"
+  ]
+}
